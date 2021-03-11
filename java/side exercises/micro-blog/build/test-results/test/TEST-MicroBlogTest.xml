@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MicroBlogTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2020-09-08T10:05:38" hostname="DOSU15" time="10.347">
+  <properties/>
+  <testcase name="germanLanguageShort_broth" classname="MicroBlogTest" time="7.784"/>
+  <testcase name="bulgarianLanguageShort_good" classname="MicroBlogTest" time="0.398"/>
+  <testcase name="mathsShort" classname="MicroBlogTest" time="0.357"/>
+  <testcase name="englishLanguageShort" classname="MicroBlogTest" time="0.178"/>
+  <testcase name="royalFlush" classname="MicroBlogTest" time="0.166"/>
+  <testcase name="englishLanguageLong" classname="MicroBlogTest" time="0.175"/>
+  <testcase name="germanLanguageLong_bearCarpet_to_beards" classname="MicroBlogTest" time="0.17"/>
+  <testcase name="greekLanguageShort_health" classname="MicroBlogTest" time="0.168"/>
+  <testcase name="emojiShort" classname="MicroBlogTest" time="0.164"/>
+  <testcase name="mathsLong" classname="MicroBlogTest" time="0.199"/>
+  <testcase name="englishAndEmojiShort" classname="MicroBlogTest" time="0.222"/>
+  <testcase name="emojiLong" classname="MicroBlogTest" time="0.361"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ScrabbleScoreTest" tests="23" skipped="0" failures="0" errors="0" timestamp="2020-09-04T15:51:20" hostname="DOSU15" time="0.011">
+  <properties/>
+  <testcase name="testWordWithOneTripleLetter" classname="ScrabbleScoreTest" time="0.006"/>
+  <testcase name="testAShortValuableWord" classname="ScrabbleScoreTest" time="0.001"/>
+  <testcase name="testEntireAlphabetAvailable" classname="ScrabbleScoreTest" time="0.0"/>
+  <testcase name="testWordWithTwoDoubleWordTiles" classname="ScrabbleScoreTest" time="0.0"/>
+  <testcase name="testWordWithOneDoubleLetter" classname="ScrabbleScoreTest" time="0.0"/>
+  <testcase name="testAUpperCaseLetter" classname="ScrabbleScoreTest" time="0.001"/>
+  <testcase name="testWordWithDoubleLettersAndTripleWordTiles" classname="ScrabbleScoreTest" time="0.0"/>
+  <testcase name="testWordWithOneTripleWordTile" classname="ScrabbleScoreTest" time="0.0"/>
+  <testcase name="testWordWithTripleLettersAndDoubleWordTiles" classname="ScrabbleScoreTest" time="0.0"/>
+  <testcase name="testALongMixCaseWord" classname="ScrabbleScoreTest" time="0.0"/>
+  <testcase name="testWordWithTwoDoubleLetters" classname="ScrabbleScoreTest" time="0.0"/>
+  <testcase name="testAEnglishLikeWord" classname="ScrabbleScoreTest" time="0.0"/>
+  <testcase name="testAValuableLetter" classname="ScrabbleScoreTest" time="0.001"/>
+  <testcase name="testWordWithOneDoubleWordTile" classname="ScrabbleScoreTest" time="0.0"/>
+  <testcase name="testWordWithTwoTripleWordTiles" classname="ScrabbleScoreTest" time="0.0"/>
+  <testcase name="testALowerCaseLetter" classname="ScrabbleScoreTest" time="0.001"/>
+  <testcase name="testWordWithTwoTripleLetters" classname="ScrabbleScoreTest" time="0.0"/>
+  <testcase name="testAMediumWord" classname="ScrabbleScoreTest" time="0.0"/>
+  <testcase name="testAnEmptyInput" classname="ScrabbleScoreTest" time="0.001"/>
+  <testcase name="testWordWithDoubleLettersAndDoubleWordTiles" classname="ScrabbleScoreTest" time="0.0"/>
+  <testcase name="testAShortWord" classname="ScrabbleScoreTest" time="0.0"/>
+  <testcase name="testAMediumValuableWord" classname="ScrabbleScoreTest" time="0.0"/>
+  <testcase name="testWordWithTripleLettersAndTripleWordTiles" classname="ScrabbleScoreTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

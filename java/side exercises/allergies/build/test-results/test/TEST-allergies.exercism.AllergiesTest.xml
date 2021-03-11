@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="allergies.exercism.AllergiesTest" tests="42" skipped="0" failures="0" errors="0" timestamp="2020-09-03T09:09:27" hostname="DOSU15" time="0.022">
+  <properties/>
+  <testcase name="eggsNotAllergicToAnything" classname="allergies.exercism.AllergiesTest" time="0.008"/>
+  <testcase name="eggsAllergicToEverything" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="listoMoreThanEggsButNotPeanuts" classname="allergies.exercism.AllergiesTest" time="0.001"/>
+  <testcase name="listNoAllergenScoreParts" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="shellfishAllergicToSomethingButNotShellfish" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="tomatoesAllergicToTomatoesAndSomethingElse" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="listEverything" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="catsAllergicToEverything" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="pollenAllergicToEverything" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="chocolateAllergicToSomethingButNotChocolate" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="listJustPeanuts" classname="allergies.exercism.AllergiesTest" time="0.001"/>
+  <testcase name="chocolateAllergicOnlyToChocolate" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="catsAllergicToSomethingButNotCats" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="peanutsAllergicToPeanutsAndSomethingElse" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="listManyAllergies" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="chocolateAllergicToChocolateAndSomethingElse" classname="allergies.exercism.AllergiesTest" time="0.001"/>
+  <testcase name="eggsAllergicToSomethingButNotEggs" classname="allergies.exercism.AllergiesTest" time="0.001"/>
+  <testcase name="listJustStrawberries" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="peanutsAllergicOnlyToPeanuts" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="strawberriesAllergicToEverything" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="listNoAllergies" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="strawberriesAllergicOnlyToStrawberries" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="tomatoesAllergicOnlyToTomatoes" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="strawberriesAllergicToStrawberriesAndSomethingElse" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="eggsAllergicOnlyToEggs" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="pollenAllergicOnlyToPollen" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="catsAllergicToCatsAndSomethingElse" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="peanutsAllergicToEverything" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="pollenAllergicToSomethingButNotPollen" classname="allergies.exercism.AllergiesTest" time="0.001"/>
+  <testcase name="peanutsAllergicToSomethingButNotPeanuts" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="listJustEggs" classname="allergies.exercism.AllergiesTest" time="0.003"/>
+  <testcase name="tomatoesAllergicToSomethingButNotTomatoes" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="shellfishAllergicOnlyToShellfish" classname="allergies.exercism.AllergiesTest" time="0.001"/>
+  <testcase name="eggsAllergicToEggsAndSomethingElse" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="pollenAllergicToPollenAndSomethingElse" classname="allergies.exercism.AllergiesTest" time="0.001"/>
+  <testcase name="shellfishAllergicToEverything" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="tomatoesAllergicToEverything" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="listEggsAndPeanuts" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="shellfishAllergicToShellfishAndSomethingElse" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="strawberriesAllergicToSomethingButNotStrawberries" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="catsAllergicOnlyToCats" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <testcase name="chocolateAllergicToEverything" classname="allergies.exercism.AllergiesTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

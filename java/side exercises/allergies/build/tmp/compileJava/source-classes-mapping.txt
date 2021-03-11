@@ -1,0 +1,4 @@
+Allergen.java
+ allergies.exercism.Allergen
+Allergies.java
+ allergies.exercism.Allergies
