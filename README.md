@@ -1,4 +1,4 @@
-#Exercism
+# Exercism
 
 In this repository are all the exercises i've completed in **[Exercism](https://exercism.io/)** in my programming self learning.
 
